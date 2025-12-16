@@ -1,2 +1,3 @@
 API/appsettings.json
 .DS_Store
+*.db-shm
